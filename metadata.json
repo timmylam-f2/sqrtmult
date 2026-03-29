@@ -1,0 +1,5 @@
+{
+  "name": "二次根式乘除法練習",
+  "description": "一個練習二次根式乘法與除法的網頁工具，支持 LaTeX 顯示與自動批改。",
+  "requestFramePermissions": []
+}
